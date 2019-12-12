@@ -1,0 +1,9 @@
+C:\Users\zobr9\Downloads\Markov\MarkovMachine\MarkovMachine\bin\Debug\MarkovMachine.exe.config
+C:\Users\zobr9\Downloads\Markov\MarkovMachine\MarkovMachine\bin\Debug\MarkovMachine.exe
+C:\Users\zobr9\Downloads\Markov\MarkovMachine\MarkovMachine\bin\Debug\MarkovMachine.pdb
+C:\Users\zobr9\Downloads\Markov\MarkovMachine\MarkovMachine\obj\Debug\MarkovMachine.csprojAssemblyReference.cache
+C:\Users\zobr9\Downloads\Markov\MarkovMachine\MarkovMachine\obj\Debug\MarkovMachine.Form1.resources
+C:\Users\zobr9\Downloads\Markov\MarkovMachine\MarkovMachine\obj\Debug\MarkovMachine.Properties.Resources.resources
+C:\Users\zobr9\Downloads\Markov\MarkovMachine\MarkovMachine\obj\Debug\MarkovMachine.csproj.GenerateResource.cache
+C:\Users\zobr9\Downloads\Markov\MarkovMachine\MarkovMachine\obj\Debug\MarkovMachine.exe
+C:\Users\zobr9\Downloads\Markov\MarkovMachine\MarkovMachine\obj\Debug\MarkovMachine.pdb
